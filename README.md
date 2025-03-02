@@ -1,4 +1,4 @@
-## Hi there, I,m Pranav Sharma, an frontend developer 👋:
+## Hi there, I'm Pranav Sharma, an frontend developer 👋:
    🔭I am currently working on my portfolio website<br>
    🤔 I’m looking for help with backend development
 <!--
