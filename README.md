@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I,m Pranav Sharma, an frontend developer 👋:
+   🔭I am currently working on my portfolio website
+   🤔 I’m looking for help with backend development
 <!--
 **pranavsharmastar/pranavsharmastar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
